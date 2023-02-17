@@ -1,9 +1,7 @@
 # module2-solution
 <!DOCTYPE html>
 <html>
-<head>
-<title>module2-solution</title>
-</head>
+<head>module2-solution</head>
   <body>
   <h1>Our Menu</<h1>
     <section class="column-gl-4 column-md-6 column-sm-12">
